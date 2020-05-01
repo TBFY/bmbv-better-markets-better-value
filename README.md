@@ -1,6 +1,7 @@
 <p align="center"><img width=50% src="https://github.com/TBFY/general/blob/master/figures/tbfy-logo.png"></p>
 <p align="center"><img width=40% src="https://github.com/TBFY/bmbv-better-markets-better-value/blob/master/logo.png"></p>
 
+![Notebook](https://img.shields.io/badge/Jupyter_Notebook-red.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/TBFY/bmbv-better-markets-better-value.svg)](https://github.com/TBFY/bmbv-better-markets-better-value/issues)
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![DOI](https://zenodo.org/badge/141266429.svg)](https://zenodo.org/badge/latestdoi/141266429)
